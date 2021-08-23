@@ -10,6 +10,8 @@ First create the document term matrix (DTM). Then use **[LDA](https://medium.dat
 
 **Project Framework**
 
+![image](https://user-images.githubusercontent.com/38795845/130510601-8a63de43-eba1-41f7-b1f1-dbdefb9f5d92.png)
+
 
 ## Data Sourcing
 
